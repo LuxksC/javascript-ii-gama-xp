@@ -8,7 +8,7 @@ console.log("Notação de ponto (pessoa.nome): "+ pessoa.nome);
 
 console.log("Notação de colchetes (pessoa['idade']) : " + pessoa['idade']);
 
-const { nome, idade, cidade } = pessoa
+const { nome, idade, cidade } = pessoa;
 
 console.log("");
 console.log("Como desestruturar Objetos");
